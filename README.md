@@ -24,7 +24,7 @@ MeloVault es una aplicación en Java que implementa el patrón DAO para gestiona
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/MeloVault.git
+   git clone https://github.com/m4rcous/MeloVault.git
    ```
 2. **Configurar la base de datos:**
 
